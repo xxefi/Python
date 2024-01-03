@@ -1,0 +1,1 @@
+print('\t\tTo be\n \t\tor not\n \t\tto be\n')

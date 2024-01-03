@@ -1,0 +1,8 @@
+print("\t\t\t\t\tEscape sequences:")
+print("\\n - new line")
+print("\\t - tabulation")
+print("\\r - carriage return")
+print("\\b - backspace")
+print("\\' - single quote")
+print("\\\"  - double quote")
+print("\\\\ - back slash")
